@@ -5,6 +5,8 @@
 Firefox (Soon to be Chrome) extension / add-on that boosts moodle's UI/UX
 You can download our production version add-on on [Mozilla's website](https://addons.mozilla.org/en-US/firefox/addon/moodlebooster/).
 
+- detailed explanation of your features.
+
 ![256909](https://user-images.githubusercontent.com/18491183/121560059-d5851e00-ca1f-11eb-9b50-452cbd2630ab.png)
 ![256910](https://user-images.githubusercontent.com/18491183/121560114-e2097680-ca1f-11eb-8049-bc2e66ebd850.png)
 
@@ -28,6 +30,7 @@ There are two ways to run our extension, the difference between them is that by 
 **Second Way (Recommended):**
 - Download Firefox (🔥).
 - Clone the repo to your pc, by running the following command: `git clone https://github.com/norbit8/MoodleBooster.git`.
+- downloading node.js?
 - Run `npm install` in the root directory of the project to install all dependencies.
 - From the root directory of the project run `npm run` to start firefox with the web extension.
 
